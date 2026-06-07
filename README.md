@@ -96,6 +96,7 @@
 |--------|------------|--------|------|-----------|
 | Attention is All You Need | Arxiv | Inglês | [Acesse](https://arxiv.org/abs/1706.03762) | Artigo seminal sobre Transformers. |
 | Blog de IA da Hugging Face | Hugging Face | Inglês | [Acesse](https://huggingface.co/blog/) | Blog com tutoriais e novidades sobre IA. |
+| Neurônios Artificiais | Blog | Português | [Acesse](https://neuroniosartificiais.com.br) | Blog brasileiro sobre IA aplicada: tutoriais, prompts e guias para negócios e finanças. |
 
 **[Voltar ao Topo](#📖-índice-rápido)**  
 
